@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" type="xml"?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="5.0">
+    <info>
+        <title>Testing DocBook</title>
+        <author>
+            <orgname>SuSE</orgname>
+            <address>
+                <city>Prague</city>
+                <street>34 Křižikova</street>
+                <postcode>186-00</postcode>
+                <country>Czechia</country>
+            </address>
+            <email>lproven@suse.com</email>
+        </author>
+    </info>
+    <sect1><title>This is an experiment.</title><subtitle>Let's see if it works.</subtitle><para>So
+            I am trying to re-familiarise myself with DocBook. Oxgen is cheating a bit, as I don't
+            need to add the tags manually. </para>This is some nonsense text, because I don't want
+        to publically share anything I actually write for the company.</sect1>
+    <sect1>So: projects so far, which I might put in here <emphasis role="bold">if</emphasis> and
+        only if I can work out how to limit them to a SUSE audience...</sect1>
+    <sect1>
+        <orderedlist>
+            <listitem>
+                <para>A write-up on WriteTheDocs</para>
+            </listitem>
+            <listitem>
+                <para>An overall comparison of the process of installing a PC and connecting it to
+                    the systems of RH and SUSE.</para>
+            </listitem>
+        </orderedlist>
+    </sect1>
+    <sect1><title>Disclaimer</title>This is entirely unofficial and does not in any way represent
+        the views of my employer.</sect1>
+</article>
