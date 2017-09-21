@@ -94,11 +94,11 @@ You probably can't, but cash donations or winning lottery tickets are welcome.
 
 ## Versioning
 
-Version 0.01.
+Version 0.01 - Replace Github's near-empty file with some boilerplate text.
 
-Version 0.02 -- replace "Githib" with actual website. Testing Dillinger editor.
+Version 0.02 - replace "Githib" with actual website name. Test Dillinger editor.
 
-Version 0.03 -- fix errors, typos & layout introduced with Dillinger. You know how it is.
+Version 0.03 - fix errors, typos & layout introduced with Dillinger. You know how it is.
 
 
 ## Authors
@@ -113,6 +113,6 @@ This project is licensed under the Lil License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to anyone whose material was used.
 
 
