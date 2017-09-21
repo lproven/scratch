@@ -86,7 +86,7 @@ Best not, eh?
 * [Xed](https://github.com/linuxmint/xed) - A simple-ish text editor with actual menus.
 * [oXygen/](https://www.oxygenxml.com/) - A semi-WYSIWYG XML editor.
 * [DAPS](https://opensuse.github.io/daps/) - Used to ``compile'' Docbook to PDF & other formats.
-* [Dillinger] (https://dillinger.io/) -- online Markdown editor. Nifty.
+* [Dillinger](https://dillinger.io/) -- online Markdown editor. Nifty.
 
 ## Contributing
 
@@ -95,7 +95,10 @@ You probably can't, but cash donations or winning lottery tickets are welcome.
 ## Versioning
 
 Version 0.01.
+
 Version 0.02 -- replace "Githib" with actual website. Testing Dillinger editor.
+
+Version 0.03 -- fix errors, typos & layout introduced with Dillinger. You know how it is.
 
 
 ## Authors
