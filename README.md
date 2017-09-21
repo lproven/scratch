@@ -96,9 +96,11 @@ You probably can't, but cash donations or winning lottery tickets are welcome.
 
 Version 0.01 - Replace Github's near-empty file with some boilerplate text.
 
-Version 0.02 - replace "Githib" with actual website name. Test Dillinger editor.
+Version 0.02 - Fix: replace "Githib" with actual website name. Test Dillinger editor.
 
-Version 0.03 - fix errors, typos & layout introduced with Dillinger. You know how it is.
+Version 0.03 - Fix errors, typos & layout introduced with Dillinger. You know how it is.
+
+Version 0.04 - This is actually turning into a real revision history. Well I never.
 
 
 ## Authors
